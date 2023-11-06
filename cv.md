@@ -26,3 +26,14 @@ function findDifference(a, b) {
 	return Math.abs(a.reduce((v, el) => v * el, 1) - b.reduce((v, el) => v * el, 1));
 }
 ```
+
+## Education
+
+- [W3Schools HTML / CSS](https://www.w3schools.com/)
+- [JavaScript.info](https://javascript.info/)
+- [RS School](https://rs.school/js/)
+
+## Languages
+
+- **English** – A2
+- **Russian** – Native
